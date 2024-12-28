@@ -1,5 +1,4 @@
-
-#Project Folder naming
+# Project Folder naming
 
 ## 1. Content (Assets)
 - UI elements
