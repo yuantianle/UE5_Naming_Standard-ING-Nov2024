@@ -18,7 +18,10 @@ Any source file (.h, .cpp, .xaml) **provided by Epic Games** for public distribu
 class Animal;
 struct BadApple;
 ```
-- Special class will have a capital word at the front, ref below sections.
+
+> Special class will have a capital word at the front, ref below sections.
+> 
+> NOTE: The capital title is only for those classes, which is not inherent from other classes (Plain Struct-like Classes)!
 
 ### 2.1 Interfaces
 Classes that are abstract interfaces are prefixed by I.
